@@ -12,6 +12,7 @@ public class Zad_2_bmi {
     // Dima Akulicz
     // Jeszcze raz Dima Akulicz
     // From TEst Branch
+    // Karol
 
     static void bmi(float weight, float height) {
         double bmi = weight / Math.pow(height, 2);
