@@ -9,7 +9,7 @@ public class Zad_2_bmi {
         bmi(70, 1.8f);
         bmi(90, 1.8f);
     }
-
+    // Dima Akulicz
 
     static void bmi(float weight, float height) {
         double bmi = weight / Math.pow(height, 2);
