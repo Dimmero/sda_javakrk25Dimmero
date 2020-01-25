@@ -10,7 +10,7 @@ public class Zad_2_bmi {
         bmi(90, 1.8f);
     }
     // Dima Akulicz
-
+    // Dima raz jeszcze
     static void bmi(float weight, float height) {
         double bmi = weight / Math.pow(height, 2);
         if (bmi < NIEDOWAGA) {
